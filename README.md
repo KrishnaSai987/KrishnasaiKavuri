@@ -10,7 +10,7 @@
 
 ## 💡 About Me
 
-I'm a **Full Stack Developer** and **AI & Mobile Applications enthusiast** with 3+ years of professional experience developing scalable, intelligent software systems.  
+I'm a **Full Stack Developer** and **AI & Mobile Applications enthusiast** with 5+ years of professional experience developing scalable, intelligent software systems.  
 I specialize in **Java, Spring Boot, React, and Android**, and I’m passionate about integrating **AI-driven user experiences** into cloud-based applications.
 
 Recently, I’ve explored **Google Gemini-style AI integrations** and **Android-based platforms**, designing intelligent, context-aware mobile systems powered by **machine learning** and **microservices architecture**.
@@ -47,8 +47,18 @@ Recently, I’ve explored **Google Gemini-style AI integrations** and **Android-
 
 ## 💼 Professional Experience
 
+## Software Engineer- Lumen
+Jan 2025 - Present
+•	Engineered scalable microservices using Java 17, Spring Boot, and Kafka to modernize the loan origination process, integrating underwriting, credit evaluation, and document management modules, resulting in a 40% improvement in overall loan processing efficiency through automation.
+•	Developed dynamic, data-driven dashboards using Angular, React.js, and TypeScript to deliver real-time analytics and reporting insights, enabling stakeholders to monitor loan performance and improve decision-making speed by 30%. 
+•	Optimized backend workflows using Spring Data JPA with PostgreSQL and MongoDB, enabling efficient data aggregation and reporting, improving data accuracy and compliance reporting by 25%.
+•	Orchestrated event-driven microservices using Kafka and Spring Batch and deployed containerized services using Docker and Kubernetes on AWS (EC2, RDS, S3) with Jenkins-based CI/CD, supporting auto-scaling, high availability, and scalable production environments.
+•	Partnered with cross-functional teams to design data pipelines, data warehousing solutions, and analytics systems using Apache Spark and Python, improving risk detection insights by 25% and reducing manual reporting effort by 50%.
+•	Led cross-functional teams to deliver end-to-end microservices and analytics solutions, ensuring timely milestone completion and high-quality releases. 
+
+
 ### 👨‍💻 Programmer Analyst — Cognizant  
-*Dec 2020 – Jul 2023*
+*Dec 2019 – Jul 2023*
 
 - Engineered **cloud-native microservices** using Java 11+, Spring Boot, and Hibernate.  
 - Implemented **secure REST APIs** handling millions of global requests daily (OAuth, rate limiting).  
@@ -57,13 +67,6 @@ Recently, I’ve explored **Google Gemini-style AI integrations** and **Android-
 - Automated build & deployment pipelines with **Jenkins, Docker, and AWS ECS**.
 
 ---
-
-### 💡 Software Engineer Intern — Kelly Technologies  
-*Nov 2019 – Apr 2020*
-
-- Developed **ML models** (Python, Scikit-learn, Pandas) achieving 85% accuracy in stock forecasting.  
-- Built **interactive dashboards** and anomaly detection systems for real-time analytics.  
-- Deployed predictive systems integrated into a **mobile dashboard** for field data insights.
 
 ---
 
